@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "First react project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashmi-incvrce/React-Practice.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rashmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rashmi-incvrce/React-Practice/issues"
+  },
+  "homepage": "https://github.com/Rashmi-incvrce/React-Practice#readme"
+}
